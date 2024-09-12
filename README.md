@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **Minitalk** é um projeto da Ecole 42 que consiste na implementação de um sistema de comunicação entre processos em C, utilizando sinais Unix.'
+O **Minitalk** é um projeto que consiste na implementação de um sistema de comunicação entre processos em C, utilizando sinais Unix.'
 O objetivo é enviar e receber mensagens de forma eficiente e entender melhor a comunicação entre processos, sinais, e conceitos como sincronização e manipulação de bits.
 
 O projeto é dividido em dois programas:
